@@ -17,7 +17,7 @@ end
 if msg.text == "salam" then
   return "va aleykol asalam"
 end
-if msg.text == "zac" then
+if msg.text == "hosien" then
   return "Nagaeedim"
 end
 if msg.text == "Zac" then
